@@ -1,0 +1,69 @@
+table{
+    margin-top: 20px;
+    margin-left: 20px;
+    text-align: center;
+    color: ivory;
+    backface-visibility: inherit;
+    border: 1px solid ivory;
+    border-collapse: collapse;
+    position: absolute;
+}
+/*tr{
+    border-bottom: 1px solid ivory;
+}*/
+td{
+    border-right: 1px solid ivory;
+    padding: 10px;
+}
+button{
+    margin:5px;
+}
+
+.displaypage{
+   background-image: url('../images/library.jpg');
+   background-size: cover;
+   height:668px
+}
+
+.home-container{
+    background-image: url('../images/welcome.jpg');
+    color: ivory;
+    height: 725px;
+    background-size: cover;
+    opacity: 0.9;
+}
+
+.css-form{
+    padding-left: 845px;
+    padding-top: 60px;
+    color: ivory;
+}
+
+input{
+    margin:5px;
+    text-align: justify;
+    text-decoration: none;
+    background-color: lightgray
+}
+
+label{
+    text-align: justify;
+    ;
+}
+
+
+h1{
+    color: gray;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    letter-spacing: 5px;
+}
+
+button{
+    background-color: lightgray;
+    text-decoration: black;
+}
+
+
+

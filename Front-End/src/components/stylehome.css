@@ -1,0 +1,119 @@
+
+
+
+.homeContainer{
+    
+    background-image: url("../images/about9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: black;
+    height: 800px;
+    width: 100%;
+    position: relative;
+    
+}
+.header{
+    background-color: black;
+    height:80px;
+    width:100%;
+    opacity: 0.9;
+    position: relative;
+}
+
+#sticky{
+    position: sticky;
+    top: 0;
+    
+}
+
+
+#ulHome{
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    
+}
+
+
+
+
+li img{
+    padding-left: 100px;
+}
+
+li h3{
+    color:white;
+    padding-left: 120px;
+}
+
+
+.links,li.heading{
+    color: white;
+    padding: 14px 16px;
+    opacity: 1;
+    text-align: left;  
+}
+
+.leftSide{
+    margin: 0;
+    position:absolute;
+    float:left;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    
+}
+.rightSide{
+    padding-top: 70px;
+    float:right;
+    position: relative;
+    margin: 0;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+ 
+
+
+
+a:link{
+    text-decoration: none;
+}
+
+a:hover{
+    color: green;
+}
+
+
+
+.knowmore{
+    
+    margin-left: 390px;
+    margin-top: 250px;
+    width: 900px; 
+    position: relative;
+    font-size: 30px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+.inco-body{
+    height: 700px;
+    width: 100%;
+    background-image: linear-gradient(to right, pink,blue);
+    color: white;
+
+}
+
+.inco-body h1{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 60px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.inco-body p{
+    font-size: 40px;
+    text-align: center;
+    
+}

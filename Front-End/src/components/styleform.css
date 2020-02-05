@@ -1,0 +1,36 @@
+.form-container{
+    background-color: black;
+    height: 750px;
+}
+
+.form-body {
+    margin: auto;
+    width: 450px;
+    height: 500px;
+    border: none;
+    padding-top: 110px;
+}
+
+.form-body label{
+    color:gray;
+    width: 100px;
+}
+
+.form-body input{
+    border-radius: 15px;
+    border-style: none;
+    margin: 4px;
+    color: black;
+    padding-left: 10px;
+    width: 250px;
+}
+
+*:focus {
+    outline: none;
+}
+
+.form-body input.upload-button{
+    text-align: center;
+    width:90px;
+    margin-left: 160px;
+}
