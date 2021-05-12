@@ -17,7 +17,7 @@
     "express": "^4.17.1",
     "express-session": "^1.17.0",
     "mongoose": "^5.7.13",
-    "nodemailer": "^6.4.2",
+    "nodemailer": "^6.4.16",
     "nodemon": "^1.19.4",
     "react-stripe-elements": "^6.0.1",
     "stripe": "^8.4.0"
